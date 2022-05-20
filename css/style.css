@@ -7,7 +7,7 @@ Version : 1.0
 CSS Styles Content Table
 1. Global Styles
 2. Nav Bar Styles
-3. Home Page Gallery
+3. Home Page
 4. About Me Page
 5. Contact Page
 6. Project Single
@@ -111,7 +111,7 @@ CSS Smooth Aiimation Transition
 .controls button,
 .item-hover .hover-text,
 .item-hover,
-.home-gallery .thumb-a,
+.home .thumb-a,
 .hover-text h3,
 .swiper-button-prev,
 .swiper-button-next,
@@ -277,7 +277,7 @@ Header Text
 }
 
 /*==========
-Home Gallery
+Home 
 ==========*/
 
 h4 {
@@ -401,7 +401,7 @@ a:hover {
 }
 
 /*===========
-Home Page Gallery
+Home Page 
 ============*/
 
 /*Mix Controls*/
