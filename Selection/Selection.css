@@ -1,0 +1,28 @@
+.mother {
+  position: relative;
+}
+
+.mother > * {
+  background: #81b7d2;
+  position: absolute;
+  height: 260px;
+  width: 35px;
+  list-style: none;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  transform: rotate(180deg);
+  bottom: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-left: 0.5rem;
+  color: antiquewhite;
+}
+
+li > span {
+  font-weight: 600;
+  vertical-align: top;
+  transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  margin-right: 3px;
+}
